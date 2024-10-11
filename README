@@ -1,0 +1,5 @@
+All modules are connected but does not connect to the database, it displays the following :
+
+DRIVER={IBM DB2 ODBC DRIVER};DATABASE=BLUDB;HOSTNAME=55fbc997-9266-4331-afd3-888b05e734c0.bs2io90l08kqb1od8lcg.databases.appdomain.cloud;PORT=31929;PROTOCOL=TCPIP;UID=??????;PWD=?????????*;SECURITY=SSL; 
+
+Unable to connect:  [IBM][CLI Driver] SQL30082N  Security processing failed with reason "19" ("USERID DISABLED or RESTRICTED").  SQLSTATE=08001 SQLCODE=-30082  
